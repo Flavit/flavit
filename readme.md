@@ -6,3 +6,8 @@ Hola soy flavio y soy de perú
 
 ## contact me 
 hacer el cierre de la presentación, comunicarse conmigo.
+
+## technologies
+- HTML
+- CSS
+- JS
